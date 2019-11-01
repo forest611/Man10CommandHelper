@@ -1,0 +1,6 @@
+name: Man10CommandHelper
+version: 1.0
+main: red.man10.man10commandhelper.Man10CommandHelper
+commands:
+  chelper:
+    default: op

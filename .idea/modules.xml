@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Man10CommandHelper.iml" filepath="$PROJECT_DIR$/Man10CommandHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Man10CommandHelper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Man10CommandHelper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Man10CommandHelper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Man10CommandHelper.test.iml" />
+    </modules>
+  </component>
+</project>
